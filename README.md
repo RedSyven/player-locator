@@ -29,11 +29,18 @@ Mojang's implementation of this feature (as of Preview 1.21.80.20) has some crit
 <br />
 <br />
 ## **HOW IT WORKS**
+<br />
+<br />
+
+![ui_elements2](https://github.com/user-attachments/assets/31c416a8-063c-4b71-ae16-bfd549cef791)
 #### Armor, Hunger, Experience, Compasses, Maps...
 Every HUD element and tracking tool in Minecraft exists as a natural extension of gameplay and items. The Player Locator Bar belongs in this ecosystem!
 <br />
 
 ![ui_elements](https://github.com/user-attachments/assets/4d71e379-f9b7-457b-b952-17ae0c4b35ef)
+<br />
+<br />
+<br />
 #### Meet the Player Locator:
 A purpose-designed item that seamlessly integrates the Player Locator Bar into gameplay. No menus, no abstract mechanics!
 <br />
