@@ -11,7 +11,7 @@ Elevate your multiplayer experience with the brand new Player Locator Bar, now a
 Mojang's implementation of this feature (as of Preview 1.21.80.20) has some criticisms - this datapack/mod addresses those issues, granting players precise control over tracking, visibility, and appearance.
 <br />
 
-![showcase](https://github.com/user-attachments/assets/7c53ed8d-eac3-4409-8221-137910707018)
+![hotbars](https://github.com/user-attachments/assets/824e8baf-8583-4124-957b-fd1dbd6130c5)
 <br />
 <br />
 ## **KEY FEATURES**
@@ -19,7 +19,7 @@ Mojang's implementation of this feature (as of Preview 1.21.80.20) has some crit
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choose whether to be tracked at any time! Opt in or opt out effortlessly.
 ### • Customizable GUI 🖥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toggle the Player Locator Bar on or off with a simple right-click, and select from multiple GUI types to suit your style.
-### • Icon Personalization 💚💛
+### • Icon Personalization 💛💜
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choose your favorite color for your tracking icon, instead of leaving it to RNG.
 ### • Seamless In-Game Integration 📈
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intuitively control the Player Locator Feature via gameplay — no need for even more menu options or yet another gamerule!
