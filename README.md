@@ -3,7 +3,7 @@
 ![banner](https://github.com/user-attachments/assets/cdc85e86-1924-4758-bac0-f039dda031da)
 <br />
 <br />
-This project brings the Player Locator Bar to version 1.21.4! This implementation grants full control to players.
+This project brings the Player Locator Bar to version 1.21.4! This implementation notably grants full control to players.
 <br />
 
 ![showcase](https://github.com/user-attachments/assets/7c53ed8d-eac3-4409-8221-137910707018)
