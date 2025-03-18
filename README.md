@@ -48,7 +48,7 @@ And so...
 A purpose-designed item that seamlessly integrates the Player Locator Bar into gameplay. No menus, no abstract mechanics!
 <br />
 
-![item](https://github.com/user-attachments/assets/6aad290d-e033-4ed3-b07f-6cd151b33e0c)
+![item](https://github.com/user-attachments/assets/02b76c21-4401-46ab-b685-7b3a71500c85)
 <br />
 <br />
 
