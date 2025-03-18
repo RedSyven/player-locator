@@ -74,7 +74,10 @@ This item seamlessly integrates the Player Locator GUI feature into gameplay. Cu
 
 ![bar_comparison](https://github.com/user-attachments/assets/c3cd74c0-ecfc-4d46-8997-7608afe7b34f)
 <br />
+<br />
 ----
+<br />
+<br />
 • No Mods Required ✅: Works on vanilla servers! Friends can join hassle-free. Once the datapack/mod is installed by the host, no client installations are needed.
 <br />
 <br />
