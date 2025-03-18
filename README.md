@@ -9,7 +9,7 @@ This project brings the Player Locator Bar to version 1.21.4! This implementatio
 ![showcase](https://github.com/user-attachments/assets/7c53ed8d-eac3-4409-8221-137910707018)
 <br />
 <br />
-Players can freely decide:
+Players can freely customize:
 <br />
 <br />
 • Wether to be tracked or not
