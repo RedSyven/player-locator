@@ -61,7 +61,7 @@ A purpose-designed item that seamlessly integrates the Player Locator Bar into g
 ![hidenseek (1)](https://github.com/user-attachments/assets/ccd6be27-ca72-46f9-bcf8-b59dd5d5c958)
 <br />
 <br />
-• Place the Player Locator in you inventory to allow tracking. If you no longer want to be tracked, simply take it back out!
+• Place the Player Locator in your inventory to allow tracking. If you no longer want to be tracked, simply take it back out!
 <br />
 
 ![sneak!](https://github.com/user-attachments/assets/718fd02c-0c06-4c89-916c-27ab012bd1e0)
