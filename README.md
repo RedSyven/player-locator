@@ -15,15 +15,15 @@ Mojang's implementation of this feature (as of Preview 1.21.80.20) has some crit
 <br />
 <br />
 ## **KEY FEATURES**
-### • Full Control Over Tracking
+### • Full Control Over Tracking 🧭
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choose whether to be tracked at any time! Opt in or opt out effortlessly.
-### • Customizable GUI
+### • Customizable GUI 🖥
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toggle the Player Locator Bar on or off with a simple right-click, and select from multiple GUI types to suit your style.
-### • Icon Personalization
+### • Icon Personalization 💚💛
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choose your favorite color for your tracking icon, instead of leaving it to RNG.
-### • Seamless In-Game Integration
+### • Seamless In-Game Integration 📈
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intuitively control the Player Locator Feature via gameplay — no need for even more menu options or yet another gamerule!
-### • No Mods Needed
+### • No Mods Needed ✅
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Works on vanilla worlds! Friends can join hassle-free. Once the datapack/mod is installed by the host, no client installations are needed.
 <br />
 <br />
