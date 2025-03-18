@@ -87,3 +87,20 @@ A purpose-designed item that seamlessly integrates the Player Locator Bar into g
 <br />
 ----
 
+### Specifications
+<br />
+
+• Two degree-of-freedom tracking, horizontal and vertical
+<br />
+<br />
+
+• 500 block range, reflected by icon transparency
+<br />
+<br />
+
+• 16 different colors
+<br />
+<br />
+
+• Up to 10 icons displayable at once
+<br />
