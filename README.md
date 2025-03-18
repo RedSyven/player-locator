@@ -39,8 +39,11 @@ Every HUD element and tracking tool in Minecraft exists as a natural extension o
 
 ![ui_elements](https://github.com/user-attachments/assets/4d71e379-f9b7-457b-b952-17ae0c4b35ef)
 <br />
+
+And so...
 <br />
 <br />
+
 #### Meet the Player Locator:
 A purpose-designed item that seamlessly integrates the Player Locator Bar into gameplay. No menus, no abstract mechanics!
 <br />
