@@ -1,9 +1,12 @@
 # Player Locator Bars (1.21.4)
 
-![banner](https://github.com/user-attachments/assets/f8bb73bc-81be-470d-a233-b402f9b06303)
+![banner](https://github.com/user-attachments/assets/cdc85e86-1924-4758-bac0-f039dda031da)
 <br />
 <br />
 This project brings the Player Locator Bar to version 1.21.4! This implementation grants full control to players.
+<br />
+
+![showcase](https://github.com/user-attachments/assets/7c53ed8d-eac3-4409-8221-137910707018)
 <br />
 <br />
 Players can freely decide:
@@ -26,7 +29,7 @@ Say hello to the Player Locator!
 ![item](https://github.com/user-attachments/assets/414f84cc-7729-4e5b-93ce-37dc6430f689)
 <br />
 <br />
-This item seamlessly integrates the Player Locator GUI feature into gameplay. Customization and control is all intuitively done in game, rather than within layers of menus or with yet another gamerule.
+This item seamlessly integrates the Player Locator GUI feature into gameplay. Customization and control is all intuitively done in game, rather than behind menus or with yet another gamerule.
 <br />
 
 
@@ -56,7 +59,7 @@ This item seamlessly integrates the Player Locator GUI feature into gameplay. Cu
 <br />
 <br />
 
-• Prefer being Pretty in Pink? Change your icon's color with the dye of your choice. 
+• Prefer being Pretty in Pink? Change your icon's color with the Pigment of your choice! 
 <br />
 
 ![color_swap](https://github.com/user-attachments/assets/a929082c-2300-4c00-babd-51c8bc7765ab)
