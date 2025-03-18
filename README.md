@@ -67,7 +67,7 @@ This item seamlessly integrates the Player Locator GUI feature into gameplay. Cu
 <br />
 <br />
 
-• And this is to go even further beyond - Personalize your HUD Bar appearance with this command:
+• Personalize your HUD Bar appearance with this command:
 <br />
 ```/trigger player_locator_gui_type```
 <br />
