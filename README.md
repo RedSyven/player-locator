@@ -8,7 +8,7 @@ Elevate your multiplayer experience with the brand new Player Locator Bar, now a
 ![banner](https://github.com/user-attachments/assets/cdc85e86-1924-4758-bac0-f039dda031da)
 <br />
 <br />
-Mojang's preview (1.21.80.20) of this feature has some criticisms - this datapack/mod addresses those issues, granting players precise control over tracking, visibility, and appearance.
+Mojang's preview (1.21.80.20) of this feature has some flaws - this datapack/mod addresses those issues, granting players precise control over tracking, visibility, and appearance.
 <br />
 
 ![hotbars](https://github.com/user-attachments/assets/824e8baf-8583-4124-957b-fd1dbd6130c5)
