@@ -67,11 +67,11 @@ A purpose-designed item that seamlessly integrates the Player Locator Bar into g
 ![sneak!](https://github.com/user-attachments/assets/718fd02c-0c06-4c89-916c-27ab012bd1e0)
 <br />
 <br />
-• Prefer being Pretty in Pink? Change your icon's color with the Pigment of your choice! 
+• Prefer being Pretty in Pink? Change your icon's color with the Pigment of your choice! You don't have to make a new Player Locator.
 <br />
 
+![color_change](https://github.com/user-attachments/assets/700f1ccd-e94f-4896-9ab5-19ae54e00a6c)
 ![color_swap](https://github.com/user-attachments/assets/a929082c-2300-4c00-babd-51c8bc7765ab)
-![color_swap_in_action](https://github.com/user-attachments/assets/97f0bd53-9b77-4de6-940a-826a0fe0f5be)
 <br />
 <br />
 • Personalize your own HUD Bar appearance with this command:
