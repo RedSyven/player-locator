@@ -5,19 +5,16 @@ No need to wait for a future update!
 <br />
 Elevate your multiplayer experience with the brand new Player Locator Bar, now available for Minecraft 1.21.4+! 
 <br />
-<br />
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0fde2eed-0917-427d-8bfe-d752199df16d" alt="animated" />
 </p>
 
-<br />
-<br />
 Mojang's preview (1.21.80.20) of this feature has some flaws - this datapack/mod addresses those issues, granting players precise control over tracking, visibility, and appearance.
+<br />
 <br />
 
 ![hotbars2](https://github.com/user-attachments/assets/d648c4c9-3cd6-4616-94b1-bede65a2962f)
-<br />
 <br />
 ## **KEY FEATURES**
 ![separator](https://github.com/user-attachments/assets/b6b973e3-f5a7-47b2-b24f-6932b92bd1ba)
