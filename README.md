@@ -115,7 +115,7 @@ A purpose-designed item that seamlessly integrates the Player Locator Bar into g
 <br />
 <br />
 
-• 500 block range, reflected by icon transparency
+• 500 block range, expressed via icon transparency
 <br />
 <br />
 
