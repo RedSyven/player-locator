@@ -34,11 +34,28 @@ Mojang's preview (1.21.80.20) of this feature has some flaws - this datapack/mod
 ## **HOW IT WORKS**
 ![separator](https://github.com/user-attachments/assets/b6b973e3-f5a7-47b2-b24f-6932b92bd1ba)
 <br />
-<br />
 
 ![ui_elements2](https://github.com/user-attachments/assets/31c416a8-063c-4b71-ae16-bfd549cef791)
-#### Armor, Hunger, Experience, Compasses, Maps...
-Every HUD element and tracking tool in Minecraft exists as a natural extension of gameplay and items. The Player Locator Bar belongs in this ecosystem!
+#### HUD and Tracking...
+• Health
+<br />
+• Armor
+<br />
+• Hunger
+<br />
+• Experience
+<br />
+• Compasses
+<br />
+• Lodestones
+<br />
+• Maps
+<br />
+<br />
+Every HUD element and tracking tool in Minecraft exists as a natural extension of gameplay and items.
+<br />
+The Player Locator Bar belongs in this ecosystem!
+<br />
 <br />
 
 ![ui_elements](https://github.com/user-attachments/assets/4d71e379-f9b7-457b-b952-17ae0c4b35ef)
