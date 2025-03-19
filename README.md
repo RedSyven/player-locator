@@ -30,7 +30,6 @@ Mojang's preview (1.21.80.20) of this feature has some flaws - this datapack/mod
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Works on vanilla worlds! Friends can join hassle-free. Once the datapack/mod is installed by the host, no client installations are needed.
 <br />
 <br />
-<br />
 ## **HOW IT WORKS**
 ![separator](https://github.com/user-attachments/assets/b6b973e3-f5a7-47b2-b24f-6932b92bd1ba)
 <br />
