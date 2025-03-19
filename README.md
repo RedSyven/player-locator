@@ -1,4 +1,5 @@
 # Player Locator Bar for Minecraft 1.21.4+
+![separator](https://github.com/user-attachments/assets/b6b973e3-f5a7-47b2-b24f-6932b92bd1ba)
 No need to wait for a future update!
 <br />
 <br />
@@ -19,6 +20,7 @@ Mojang's preview (1.21.80.20) of this feature has some flaws - this datapack/mod
 <br />
 <br />
 ## **KEY FEATURES**
+![separator](https://github.com/user-attachments/assets/b6b973e3-f5a7-47b2-b24f-6932b92bd1ba)
 ### • Full Control Over Tracking 🧭
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choose whether to be tracked at any time! Opt in or opt out effortlessly.
 ### • Customizable GUI 🖥
@@ -33,6 +35,7 @@ Mojang's preview (1.21.80.20) of this feature has some flaws - this datapack/mod
 <br />
 <br />
 ## **HOW IT WORKS**
+![separator](https://github.com/user-attachments/assets/b6b973e3-f5a7-47b2-b24f-6932b92bd1ba)
 <br />
 <br />
 
@@ -92,6 +95,7 @@ A purpose-designed item that seamlessly integrates the Player Locator Bar into g
 ----
 
 ### Specifications
+![separator](https://github.com/user-attachments/assets/b6b973e3-f5a7-47b2-b24f-6932b92bd1ba)
 <br />
 
 • Two degree-of-freedom tracking, horizontal and vertical
