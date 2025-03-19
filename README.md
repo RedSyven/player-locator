@@ -5,13 +5,17 @@ No need to wait for a future update!
 Elevate your multiplayer experience with the brand new Player Locator Bar, now available for Minecraft 1.21.4+! 
 <br />
 <br />
-![banner](https://github.com/user-attachments/assets/cdc85e86-1924-4758-bac0-f039dda031da)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0fde2eed-0917-427d-8bfe-d752199df16d" alt="animated" />
+</p>
+
 <br />
 <br />
 Mojang's preview (1.21.80.20) of this feature has some flaws - this datapack/mod addresses those issues, granting players precise control over tracking, visibility, and appearance.
 <br />
 
-![hotbars](https://github.com/user-attachments/assets/824e8baf-8583-4124-957b-fd1dbd6130c5)
+![hotbars2](https://github.com/user-attachments/assets/d648c4c9-3cd6-4616-94b1-bede65a2962f)
 <br />
 <br />
 ## **KEY FEATURES**
@@ -48,7 +52,7 @@ And so...
 A purpose-designed item that seamlessly integrates the Player Locator Bar into gameplay. No menus, no abstract mechanics!
 <br />
 
-![item](https://github.com/user-attachments/assets/02b76c21-4401-46ab-b685-7b3a71500c85)
+![item](https://github.com/user-attachments/assets/7be2364a-cd1b-4ecf-8d32-a7d4e462551f)
 <br />
 <br />
 
@@ -61,20 +65,20 @@ A purpose-designed item that seamlessly integrates the Player Locator Bar into g
 • Right Click the Player Locator to toggle your Player Locator Bar on/off (can be put anywhere in the inventory).
 <br />
 
-![hidenseek (1)](https://github.com/user-attachments/assets/ccd6be27-ca72-46f9-bcf8-b59dd5d5c958)
+![toggle2](https://github.com/user-attachments/assets/fa44cfc5-20cc-43a2-8ac4-777b414b5224)
 <br />
 <br />
 • Place the Player Locator in your inventory to allow tracking. If you no longer want to be tracked, simply take it back out!
 <br />
 
-![sneak!](https://github.com/user-attachments/assets/718fd02c-0c06-4c89-916c-27ab012bd1e0)
+![nothanks](https://github.com/user-attachments/assets/10d572f3-4e34-42ab-9b76-6ec70783e540)
 <br />
 <br />
 • Prefer being Pretty in Pink? Change your icon's color with the Pigment of your choice! You don't have to make a new Player Locator.
 <br />
 
-![color_change](https://github.com/user-attachments/assets/700f1ccd-e94f-4896-9ab5-19ae54e00a6c)
 ![color_swap](https://github.com/user-attachments/assets/a929082c-2300-4c00-babd-51c8bc7765ab)
+![color_swap2](https://github.com/user-attachments/assets/d6a92d8f-daa7-4fcc-b579-d56a6b185388)
 <br />
 <br />
 • Personalize your own HUD Bar appearance with this command:
