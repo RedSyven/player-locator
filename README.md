@@ -1,4 +1,4 @@
-# Player Locator Bar for Minecraft 1.21.4+
+# Player Locator Bar for Minecraft 1.21.4 -1.21.5
 ![separator](https://github.com/user-attachments/assets/b6b973e3-f5a7-47b2-b24f-6932b92bd1ba)
 No need to wait for a future update!
 <br />
