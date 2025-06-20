@@ -3,7 +3,7 @@
 No need to wait for a future update!
 <br />
 <br />
-Elevate your multiplayer experience with the brand new Player Locator Bar, now available for Minecraft 1.21.4+! 
+Elevate your multiplayer experience with the brand new Player Locator Bar, now available for Minecraft 1.21.4 - 1.21.5! 
 <br />
 
 <p align="center">
